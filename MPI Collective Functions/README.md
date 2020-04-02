@@ -6,4 +6,4 @@ Cristian Steven Perafan - 1625690
 
 ## Contenido del repositorio
 
-En este repositorio se encuentran los archivos binarios entregables realizados en la practica de MPI Collective 
+En este repositorio se encuentran los archivos binarios entregables realizados en la practica de MPI Collective Functions
